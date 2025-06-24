@@ -73,9 +73,6 @@ if uploaded_file:
             st.image(img, width=300) # Hiển thị biểu đồ ở cột giữa
             st.markdown("Biểu đồ phân bố điểm số.")
 
-if __name__ == "__main__":
-    main()
-
 
 
 
