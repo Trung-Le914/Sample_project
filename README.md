@@ -1,1 +1,1 @@
-# Project to calculate average scores for students
+# Project to analyze students' scores
