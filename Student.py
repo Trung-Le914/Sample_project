@@ -41,7 +41,7 @@ def percentage_distribution(scores):
 # Khi có file
 if uploaded_file:
     df = pd.read_excel(uploaded_file)
-    scores = df["Điểm số"].dropna().astype(float).tolist()
+    scores = df["Điểm"].dropna().astype(float).tolist()
     
     if scores:
         st.write("Tổng số học sinh:", len(scores), 
