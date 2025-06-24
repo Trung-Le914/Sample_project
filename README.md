@@ -1,2 +1,1 @@
-# Sample_project
-# Basic git and github for control
+# Project to calculate average scores for students
